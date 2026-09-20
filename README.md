@@ -1,6 +1,7 @@
 # FlowShield — Website & Android App
 
 FlowShield is a Bengaluru-focused flood-intelligence **simulation/prototype** available as a desktop website and Android app.
+Created with the help of Gemini and ChatGPT.
 
 ## Project Files
 
